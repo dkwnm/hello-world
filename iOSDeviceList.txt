@@ -1,2 +1,6 @@
-iPhone
+iPhone X
+iPhone XS
+iPhone 8
+iPhone 7
 iPad
+iPad mini
