@@ -1,3 +1,5 @@
 Safari
 Google Chrome
 Firefox
+internet explorer 11
+Edge
